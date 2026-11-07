@@ -29,3 +29,14 @@ Certifique-se de ter o Python instalado na sua máquina e o **Google Chrome** in
 ```bash
 git clone [https://github.com/rafaelxf-dev/NOME-DO-SEU-REPOSITORIO.git](https://github.com/rafaelxf-dev/NOME-DO-SEU-REPOSITORIO.git)
 cd NOME-DO-SEU-REPOSITORIO
+```
+
+### 2. Instalar as dependências
+```bash
+pip install selenium
+```
+
+### 3. Executar a aplicação
+```bash
+python main.py
+```
