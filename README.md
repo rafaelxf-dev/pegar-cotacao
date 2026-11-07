@@ -27,8 +27,8 @@ Certifique-se de ter o Python instalado na sua máquina e o **Google Chrome** in
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/rafaelxf-dev/NOME-DO-SEU-REPOSITORIO.git](https://github.com/rafaelxf-dev/NOME-DO-SEU-REPOSITORIO.git)
-cd NOME-DO-SEU-REPOSITORIO
+git clone [https://github.com/rafaelxf-dev/pegar-cotacao.git](https://github.com/rafaelxf-dev/pegar-cotacao.git)
+cd pegar-cotacao
 ```
 
 ### 2. Instalar as dependências
